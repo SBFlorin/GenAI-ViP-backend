@@ -1,0 +1,112 @@
+[
+    {
+        "Scenario": 1,
+        "Smoking status": "Non-smoker",
+        "Age group": "Young adult",
+        "Sex": "Female",
+        "Health literacy": "Moderate",
+        "Smoking-related knowledge": "Moderate",
+        "Motivation to quit / maintain status": "High motivation to remain non-smoker",
+        "Confidence": "High",
+        "Smoking history, intensity, and duration": "Never smoker; occasional peer exposure"
+    },
+    {
+        "Scenario": 2,
+        "Smoking status": "Former smoker",
+        "Age group": "Older adult",
+        "Sex": "Male",
+        "Health literacy": "Low",
+        "Smoking-related knowledge": "Moderate",
+        "Motivation to quit / maintain status": "Moderate motivation to remain abstinent",
+        "Confidence": "Low",
+        "Smoking history, intensity, and duration": "Former heavy smoker; long smoking history; quit after health problem; relapse risk present"
+    },
+    {
+        "Scenario": 3,
+        "Smoking status": "Smoker interested in quitting",
+        "Age group": "Young adult",
+        "Sex": "Male",
+        "Health literacy": "Moderate",
+        "Smoking-related knowledge": "Moderate",
+        "Motivation to quit / maintain status": "High",
+        "Confidence": "Moderate",
+        "Smoking history, intensity, and duration": "Moderate smoker; short smoking duration; motivated by physical performance"
+    },
+    {
+        "Scenario": 4,
+        "Smoking status": "Smoker interested in quitting",
+        "Age group": "Middle-aged",
+        "Sex": "Male",
+        "Health literacy": "Low",
+        "Smoking-related knowledge": "Low",
+        "Motivation to quit / maintain status": "Moderate",
+        "Confidence": "Low",
+        "Smoking history, intensity, and duration": "Heavy smoker; long smoking duration; previous failed quit attempt"
+    },
+    {
+        "Scenario": 5,
+        "Smoking status": "Smoker interested in quitting",
+        "Age group": "Older adult",
+        "Sex": "Female",
+        "Health literacy": "Moderate",
+        "Smoking-related knowledge": "High",
+        "Motivation to quit / maintain status": "High",
+        "Confidence": "Low",
+        "Smoking history, intensity, and duration": "Heavy smoker; long smoking duration; motivated by children/family"
+    },
+    {
+        "Scenario": 6,
+        "Smoking status": "Smoker interested in quitting",
+        "Age group": "Middle-aged",
+        "Sex": "Male",
+        "Health literacy": "High",
+        "Smoking-related knowledge": "Moderate",
+        "Motivation to quit / maintain status": "Moderate",
+        "Confidence": "High",
+        "Smoking history, intensity, and duration": "Heavy smoker; long smoking duration; confident but ambivalent about support"
+    },
+    {
+        "Scenario": 7,
+        "Smoking status": "Smoker not interested in quitting",
+        "Age group": "Young adult",
+        "Sex": "Male",
+        "Health literacy": "Low",
+        "Smoking-related knowledge": "Low",
+        "Motivation to quit / maintain status": "Low",
+        "Confidence": "Moderate",
+        "Smoking history, intensity, and duration": "Light smoker; short smoking duration; does not perceive smoking as a problem"
+    },
+    {
+        "Scenario": 8,
+        "Smoking status": "Smoker not interested in quitting",
+        "Age group": "Middle-aged",
+        "Sex": "Female",
+        "Health literacy": "High",
+        "Smoking-related knowledge": "High",
+        "Motivation to quit / maintain status": "Low",
+        "Confidence": "Moderate",
+        "Smoking history, intensity, and duration": "Moderate smoker; long smoking duration; aware of risks but not ready to quit; believes can quit anytime"
+    },
+    {
+        "Scenario": 9,
+        "Smoking status": "Smoker not interested in quitting",
+        "Age group": "Older adult",
+        "Sex": "Male",
+        "Health literacy": "Moderate",
+        "Smoking-related knowledge": "High",
+        "Motivation to quit / maintain status": "Low",
+        "Confidence": "Low",
+        "Smoking history, intensity, and duration": "Heavy smoker; very long smoking duration; fatalistic beliefs"
+    },
+    {
+        "Scenario": 10,
+        "Smoking status": "Smoker not interested in quitting",
+        "Age group": "Older adult",
+        "Sex": "Female",
+        "Health literacy": "High",
+        "Smoking-related knowledge": "High",
+        "Motivation to quit / maintain status": "Low",
+        "Confidence": "Moderate",
+        "Smoking history, intensity, and duration": "Moderate smoker; long smoking duration; acknowledges risk but prioritizes quality of life"
+    }
+]
