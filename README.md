@@ -74,6 +74,7 @@ The developer reported 118/118 evaluator checks passed in a separate study verif
 - No genuine `.env`, personal data, participant transcripts, audio or exports in the release.
 - This public-source preparation removes the JWT fallback and implements conversation-ownership checks for Socket.IO auxiliary rooms. Independent penetration testing and live end-to-end validation are not claimed.
 - Verify the behavior and retention of SQLite soft-deletion and external AI processing before collecting research data.
+- The software rights holder authorized public distribution of the released source code under the **MIT License** (see `LICENSE`). Separately licensed third-party assets, if any, remain governed by their own license terms.
 
 A clean install and a live API smoke test were not performed while preparing this documentation.
 
